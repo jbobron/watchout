@@ -1,2 +1,3 @@
 #watchout
-This is a project I completed as a student at [Hack Reactor](http://hackreactor.com). This project was worked on with a pair.
+
+download the file and open the index.html file in your browser
